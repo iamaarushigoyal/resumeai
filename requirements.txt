@@ -5,3 +5,6 @@ PyPDF2
 matplotlib 
 pydantic
 langchain_openai
+flask
+sqlalchemy
+psycopg2-binary
